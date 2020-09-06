@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wssholmes.stark:circular-score:0.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee3b8a6a63bbedd06f3f6af2f8d50084/jetified-circular-score-0.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee3b8a6a63bbedd06f3f6af2f8d50084/jetified-circular-score-0.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wssholmes.stark/circular-score/0.1.1/cf771e5a913a00653398fd807612ba280c4bf59d/circular-score-0.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wssholmes.stark/circular-score/0.1.1/1f194a46b5069e2e4f8349c452aeb2bab0e2cb47/circular-score-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

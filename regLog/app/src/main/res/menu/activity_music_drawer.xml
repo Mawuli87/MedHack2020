@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <group android:id="@+id/first"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_24"
+            app:showAsAction="never"
+            android:title="@string/home_all" />
+    </group>
+
+    <group android:id="@+id/one"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_iq"
+            android:icon="@drawable/ic_top_iq"
+            app:showAsAction="never"
+            android:title="@string/policy" />
+    </group>
+
+    <group android:id="@+id/two"
+           android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_profile"
+            app:showAsAction="never"
+            android:title="@string/profile" />
+    </group>
+    <group android:id="@+id/three"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/available_slots"
+            android:icon="@drawable/ic_reserve"
+            app:showAsAction="never"
+            android:title="@string/available_slot" />
+
+
+        <item
+            android:id="@+id/chatUs"
+            android:icon="@drawable/ic_chat"
+            app:showAsAction="never"
+            android:title="@string/chatUs" />
+        <item
+            android:id="@+id/cov19"
+            android:icon="@drawable/ic_cov19"
+            app:showAsAction="never"
+            android:title="@string/cov19" />
+
+    </group>
+
+
+
+
+
+</menu>

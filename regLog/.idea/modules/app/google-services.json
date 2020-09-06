@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215960629863",
+    "firebase_url": "https://reglog-29d74.firebaseio.com",
+    "project_id": "reglog-29d74",
+    "storage_bucket": "reglog-29d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215960629863:android:7f913a844b64c50af65ac2",
+        "android_client_info": {
+          "package_name": "com.messieyawo.medhack2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215960629863-qro6qqilu7ta5v0f0ublg4f229889oe4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messieyawo.medhack2020",
+            "certificate_hash": "835961a9276eeb12eb59ecc285642f1e54279ebb"
+          }
+        },
+        {
+          "client_id": "215960629863-rck659osahsm6dfu45db71u6jvq7a00m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZbb35c-pz7Z2pBSugaNDFlWKLEsvjfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215960629863-rck659osahsm6dfu45db71u6jvq7a00m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

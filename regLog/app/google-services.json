@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "148634119304",
+    "firebase_url": "https://coolchat-be833.firebaseio.com",
+    "project_id": "coolchat-be833",
+    "storage_bucket": "coolchat-be833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148634119304:android:a581e1f5ee966637ba433d",
+        "android_client_info": {
+          "package_name": "com.messieyawo.medhack2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148634119304-jqaacelpngmki0utf7899o1naap5424e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9D4aW-Sy3IZ8RReVqHsFyRh3L5_mZHkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148634119304-jqaacelpngmki0utf7899o1naap5424e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148634119304:android:e7f3547037155928",
+        "android_client_info": {
+          "package_name": "com.onlinemawuli.coolchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148634119304-8svi3s63b1m1rg8t8e0s46clgheghbl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlinemawuli.coolchat",
+            "certificate_hash": "8b5404c873ba5ff247a5b47c1b8adf7e9f0f2d04"
+          }
+        },
+        {
+          "client_id": "148634119304-jqaacelpngmki0utf7899o1naap5424e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9D4aW-Sy3IZ8RReVqHsFyRh3L5_mZHkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148634119304-jqaacelpngmki0utf7899o1naap5424e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

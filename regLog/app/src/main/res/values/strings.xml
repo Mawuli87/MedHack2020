@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MedHack 2020</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">logout</string>
+    <string name="change_password">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="available_slot">Available Slots</string>
+    <string name="home_all">Home</string>
+    <string name="policy">Policy</string>
+    <string name="top_learners">My Appointments</string>
+    <string name="profile">My Profile</string>
+    <string name="chatUs">Chat With Us</string>
+    <string name="cov19">Book Appointments</string>
+
+
+
+    <array name="verses_type">
+        <item>7:30 Am-8:00am.First Slots</item>
+        <item>8:10 Am-8:40am.Second Slots.</item>
+        <item>8:50 Am-9:30am.Third Slots.</item>
+        <item>8:50 Am-9:30am.Third Slots.</item>
+        <item>9:50 Am-10:30am.Fourth Slots.</item>
+        <item>10:50 Am-11:30am.Fith Slots.</item>
+        <item>11:50 Am-12:30am.Sixth Slots.</item>
+        <item>Break.</item>
+
+        <item />
+    </array>
+
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Android Reservation App</string>
+    <string name="slide_1_desc">In the midst of this COV19 pandemic, Health practitioners are badly affected in a way or the other.This mobile app is here with some precautions to solve part of the problem.The patient can book appointment through form submission or Phone call.</string>
+
+    <string name="slide_2_title">Install Reservation App.</string>
+    <string name="slide_2_desc">Open the app click on register get a valid email address, fill the form and hit sign up.You will be redirected to activate your email.Check your email inbox enter the code sent to you.You ar all set then.  </string>
+
+    <string name="slide_3_title">Now book your appointment.</string>
+    <string name="slide_3_desc">After activating your account you can now book your appointment.Also do check the available slot with their corresponding time before submitting a form or call.</string>
+
+    <string name="slide_4_title">Call or submit appointment form.</string>
+    <string name="slide_4_desc">With this app hospitals or clinic can know how many patients will be attended a day.Also keep track of patient not attended to.This will make waiting rooms not crowded.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

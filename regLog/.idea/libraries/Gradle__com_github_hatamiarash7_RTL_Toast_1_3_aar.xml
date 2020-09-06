@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hatamiarash7:RTL-Toast:1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/030ba8d2be3f53afa48afa0a10ed6aec/jetified-RTL-Toast-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/030ba8d2be3f53afa48afa0a10ed6aec/jetified-RTL-Toast-1.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hatamiarash7/RTL-Toast/1.3/15459fa69401e898b92b374c8dcb5d062a5492f1/RTL-Toast-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
